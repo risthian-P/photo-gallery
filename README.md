@@ -17,7 +17,7 @@ Conclusiones:
 3. El uso de una buena documentación ayudó bastante a la elaboración del proyecto, además de los diferentes videos que se
    encuentran en YouTube, sin embargo muchos de ellos estan en otros idiomas y formas diferentes de realizar. 
 
-#HOW TO RUN
+# HOW TO RUN
 
 1. Instale Ionic si es necesario: npm install -g @ionic/CLI.
 2. Clona este repositorio.
